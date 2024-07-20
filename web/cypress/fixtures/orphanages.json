@@ -1,0 +1,57 @@
+{
+    "create": {
+        "name": "Orfanato Esperança",
+        "description": "O Orfanato Esperança oferece um ambiente acolhedor e seguro para crianças em situação de vulnerabilidade, promovendo seu desenvolvimento integral e proporcionando educação, saúde e lazer.",
+        "opening_hours": "Segunda a sexta, das 08:00 às 18:00",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -22.8039,
+            "longitude": -43.3729
+        },
+        "image": "kids-playground-1.png"
+    },
+    "duplicate": {
+        "name": "Lar das Crianças Felizes",
+        "description": "No Lar das Crianças Felizes, as crianças encontram um lar temporário onde são amparadas com carinho e atenção, recebendo cuidados de saúde, educação de qualidade e atividades recreativas.",
+        "opening_hours": "Terça a sábado, das 09:00 às 17:00",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -22.8050,
+            "longitude": -43.3735
+        },
+        "image": "kids-playground-2.png"
+    },
+    "map": {
+        "name": "Casa do Aconchego",
+        "description": "A Casa do Aconchego é um lugar onde crianças em situação de risco recebem amor, cuidado e atenção, com uma equipe dedicada que trabalha para garantir seu bem-estar e desenvolvimento saudável.",
+        "opening_hours": "Segunda a sexta, das 07:00 às 19:00",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -22.79371141730666,
+            "longitude": -43.39385899094782
+        },
+        "image": "kids-playground-3.png"
+    },
+    "required": {
+        "name": "Abrigo Infantil Sorriso",
+        "description": "O Abrigo Infantil Sorriso se dedica a oferecer um ambiente seguro e feliz para crianças em situação de vulnerabilidade, com atividades educativas, recreativas e suporte emocional.",
+        "opening_hours": "Terça a sábado, das 10:00 às 16:00",
+        "open_on_weekends": true,
+        "position": {
+            "latitude": -22.792653078886396,
+            "longitude": -43.39685613831591
+        },
+        "image": "kids-playground-4.png"
+    },
+    "other3": {
+        "name": "Refúgio da Infância",
+        "description": "No Refúgio da Infância, as crianças encontram um ambiente protetor e estimulante, com acesso a cuidados de saúde, educação e atividades que promovem seu desenvolvimento integral e bem-estar.",
+        "opening_hours": "Segunda a sexta, das 08:30 às 17:30",
+        "open_on_weekends": false,
+        "position": {
+            "latitude": -22.8050,
+            "longitude": -43.3735
+        },
+        "image": "kids-playground-5.png"
+    }
+}
